@@ -4,8 +4,17 @@ body {
     background-size: cover;
 
 }
+
+.topBar {
+    display: inline-flex;
+    width: 100%;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2), 0 1px 1px 0 rgba(0,0,0,0.14), 0 2px 1px -1px rgba(0,0,0,0.12);
+    height: 45px;
+    justify-content: space-between;
+    padding-top: 5px;
+}
 .parallax{
-background-image: url();
+background-image: url("https://images.unsplash.com/photo-1489343511429-5482f78c15cf?dpr=1&auto=format&fit=crop&w=1500&h=1126&q=80&cs=tinysrgb&crop=");
 height: 500px;
 background-attachment: fixed;
 background-position: center;
