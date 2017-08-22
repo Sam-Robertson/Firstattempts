@@ -1,8 +1,9 @@
 /* The image used */
-body {
-
+html,body {
     background-size: cover;
-
+    margin: 0 auto;
+    height: 100%;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .topBar {
@@ -12,12 +13,6 @@ body {
     height: 45px;
     justify-content: space-between;
     padding-top: 5px;
-}
-.parallax{
-background-image: url("https://images.unsplash.com/photo-1489343511429-5482f78c15cf?dpr=1&auto=format&fit=crop&w=1500&h=1126&q=80&cs=tinysrgb&crop=");
-height: 500px;
-background-attachment: fixed;
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
+    background-color: #333399;
+    color: white;
 }

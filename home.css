@@ -1,0 +1,38 @@
+.parallax{
+    background-image: url("https://images.unsplash.com/photo-1489343511429-5482f78c15cf?dpr=1&auto=format&fit=crop&w=1500&h=1126&q=80&cs=tinysrgb&crop=");
+    height: 850px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nameBox{
+    background-color: white;
+    opacity: .8;
+}
+.nameTitle{
+    font-size: 48px;
+    color: transparent;
+    /*background-image: url("https://images.unsplash.com/photo-1489343511429-5482f78c15cf?dpr=1&auto=format&fit=crop&w=1500&h=1126&q=80&cs=tinysrgb&crop=");*/
+
+}
+.parallax1{
+    background-color: gray;
+    height: 075px;
+
+}
+.parallax2{
+    background-image: url("https://images.unsplash.com/photo-1458400411386-5ae465c4e57e?dpr=1&auto=format&fit=crop&w=1500&h=883&q=80&cs=tinysrgb&crop=");
+    opacity: 9.0;
+    height: 850px;
+}
+.parallax3{
+    background-color: gray;
+    height: 075px;
+
+}
+.parallax4{
+    background-image: url("https://images.unsplash.com/photo-1482510356941-d087154c2931?dpr=1&auto=format&fit=crop&w=1500&h=994&q=80&cs=tinysrgb&crop=");
+    opacity: 9.0;
+    height: 850px;
+}
